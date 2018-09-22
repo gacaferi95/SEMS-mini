@@ -1,0 +1,242 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E40F9567-CDDC-4989-A2C0-CD9AF03E4FE7}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Projekti_KNK</RootNamespace>
+    <AssemblyName>Projekti_KNK</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Reflection.Context" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forma_Admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forma_Admin.Designer.cs">
+      <DependentUpon>Forma_Admin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forma_Profesorit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forma_Profesorit.Designer.cs">
+      <DependentUpon>Forma_Profesorit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forma_Student.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forma_Student.Designer.cs">
+      <DependentUpon>Forma_Student.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GjeneroSalt.cs" />
+    <Compile Include="Gjuha\anglisht.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>anglisht.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Gjuha\Shqip1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Shqip1.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Identifikohu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Identifikohu.Designer.cs">
+      <DependentUpon>Identifikohu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LidhjaMe_DB.cs" />
+    <Compile Include="Parametra.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Sh_Admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sh_Admin.Designer.cs">
+      <DependentUpon>Sh_Admin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sh_Drejtimet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sh_Drejtimet.Designer.cs">
+      <DependentUpon>Sh_Drejtimet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sh_Lendet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sh_Lendet.Designer.cs">
+      <DependentUpon>Sh_Lendet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sh_Percakto_Prof_Lenden.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sh_Percakto_Prof_Lenden.Designer.cs">
+      <DependentUpon>Sh_Percakto_Prof_Lenden.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sh_Profesor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sh_Profesor.Designer.cs">
+      <DependentUpon>Sh_Profesor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sh_Student.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sh_Student.Designer.cs">
+      <DependentUpon>Sh_Student.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Forma_Admin.resx">
+      <DependentUpon>Forma_Admin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forma_Profesorit.resx">
+      <DependentUpon>Forma_Profesorit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forma_Student.resx">
+      <DependentUpon>Forma_Student.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gjuha\anglisht.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>anglisht.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gjuha\Shqip1.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Shqip1.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Identifikohu.resx">
+      <DependentUpon>Identifikohu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Sh_Admin.resx">
+      <DependentUpon>Sh_Admin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sh_Drejtimet.resx">
+      <DependentUpon>Sh_Drejtimet.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sh_Lendet.resx">
+      <DependentUpon>Sh_Lendet.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sh_Percakto_Prof_Lenden.resx">
+      <DependentUpon>Sh_Percakto_Prof_Lenden.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sh_Profesor.resx">
+      <DependentUpon>Sh_Profesor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sh_Student.resx">
+      <DependentUpon>Sh_Student.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="DB_RegjistroStudent.mdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="DB_RegjistroStudent_log.ldf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <DependentUpon>DB_RegjistroStudent.mdf</DependentUpon>
+    </Content>
+    <None Include="Resources\1463883944_file-bookmark.png" />
+    <None Include="Resources\1463883908_vector_66_08.png" />
+    <None Include="Resources\download.jpg" />
+    <None Include="Resources\folder-blue.jpg" />
+    <None Include="Resources\minimalistic textures simple_www.wall321.com_84.jpg" />
+    <None Include="Resources\SRS.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

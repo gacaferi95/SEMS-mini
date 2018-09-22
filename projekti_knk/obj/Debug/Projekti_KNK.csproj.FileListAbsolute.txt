@@ -1,0 +1,131 @@
+C:\Users\Tiumf\Documents\Visual Studio 2015\Projects\Siguri\Projekti_KNK\Projekti_KNK\bin\Debug\Projekti_KNK.exe.config
+C:\Users\Tiumf\Documents\Visual Studio 2015\Projects\Siguri\Projekti_KNK\Projekti_KNK\obj\Debug\Projekti_KNK.csprojResolveAssemblyReference.cache
+C:\Users\Tiumf\Documents\Visual Studio 2015\Projects\Siguri\Projekti_KNK\Projekti_KNK\obj\Debug\Projekti_KNK.Properties.Resources.resources
+C:\Users\Tiumf\Documents\Visual Studio 2015\Projects\Siguri\Projekti_KNK\Projekti_KNK\obj\Debug\Projekti_KNK.csproj.GenerateResource.Cache
+C:\Users\Tiumf\Documents\Visual Studio 2015\Projects\Siguri\Projekti_KNK\Projekti_KNK\bin\Debug\DB_RegjistroStudent.mdf
+C:\Users\Tiumf\Documents\Visual Studio 2015\Projects\Siguri\Projekti_KNK\Projekti_KNK\bin\Debug\DB_RegjistroStudent_log.ldf
+C:\Users\Tiumf\Documents\Visual Studio 2015\Projects\Siguri\Projekti_KNK\Projekti_KNK\bin\Debug\Projekti_KNK.exe
+C:\Users\Tiumf\Documents\Visual Studio 2015\Projects\Siguri\Projekti_KNK\Projekti_KNK\bin\Debug\Projekti_KNK.pdb
+C:\Users\Tiumf\Documents\Visual Studio 2015\Projects\Siguri\Projekti_KNK\Projekti_KNK\obj\Debug\Projekti_KNK.exe
+C:\Users\Tiumf\Documents\Visual Studio 2015\Projects\Siguri\Projekti_KNK\Projekti_KNK\obj\Debug\Projekti_KNK.pdb
+C:\Users\Tiumf\Documents\Visual Studio 2015\Projects\Siguri\Projekti_KNK\Projekti_KNK\obj\Debug\Projekti_KNK.Sh_Profesor.resources
+C:\Users\Tiumf\Documents\Visual Studio 2015\Projects\Siguri\Projekti_KNK\Projekti_KNK\obj\Debug\Projekti_KNK.Identifikohu.resources
+C:\Users\Tiumf\Documents\Visual Studio 2015\Projects\Siguri\Projekti_KNK\Projekti_KNK\obj\Debug\Projekti_KNK.Sh_Student.resources
+C:\Users\Tiumf\Documents\Visual Studio 2015\Projects\Siguri\Projekti_KNK\Projekti_KNK\obj\Debug\Projekti_KNK.Sh_Drejtimet.resources
+C:\Users\Tiumf\Documents\Visual Studio 2015\Projects\Siguri\Projekti_KNK\Projekti_KNK\obj\Debug\Projekti_KNK.Sh_Lendet.resources
+C:\Users\Tiumf\Documents\Visual Studio 2015\Projects\Siguri\Projekti_KNK\Projekti_KNK\obj\Debug\Projekti_KNK.Sh_Percakto_Prof_Lenden.resources
+C:\Users\Tiumf\Documents\Visual Studio 2015\Projects\Siguri\Projekti_KNK\Projekti_KNK\obj\Debug\Projekti_KNK.Forma_Student.resources
+C:\Users\Tiumf\Documents\Visual Studio 2015\Projects\Siguri\Projekti_KNK\Projekti_KNK\obj\Debug\Projekti_KNK.Forma_Profesorit.resources
+C:\Users\Tiumf\Documents\Visual Studio 2015\Projects\Siguri\Projekti_KNK\Projekti_KNK\obj\Debug\Projekti_KNK.frm_SHA.resources
+C:\Users\Tiumf\Documents\Visual Studio 2015\Projects\Siguri\Projekti_KNK\Projekti_KNK\obj\Debug\Projekti_KNK.Forma_Admin.resources
+C:\Users\Mirela\Desktop\Projekti_KNK_3.0V\Projekti_KNK\Projekti_KNK\bin\Debug\Projekti_KNK.exe.config
+C:\Users\Mirela\Desktop\Projekti_KNK_3.0V\Projekti_KNK\Projekti_KNK\obj\Debug\Projekti_KNK.exe
+C:\Users\Mirela\Desktop\Projekti_KNK_3.0V\Projekti_KNK\Projekti_KNK\obj\Debug\Projekti_KNK.pdb
+C:\Users\Mirela\Desktop\Projekti_KNK_3.0V\Projekti_KNK\Projekti_KNK\bin\Debug\DB_RegjistroStudent.mdf
+C:\Users\Mirela\Desktop\Projekti_KNK_3.0V\Projekti_KNK\Projekti_KNK\bin\Debug\DB_RegjistroStudent_log.ldf
+C:\Users\Mirela\Desktop\Projekti_KNK_3.0V\Projekti_KNK\Projekti_KNK\bin\Debug\Projekti_KNK.exe
+C:\Users\Mirela\Desktop\Projekti_KNK_3.0V\Projekti_KNK\Projekti_KNK\bin\Debug\Projekti_KNK.pdb
+C:\Users\Mirela\Desktop\Projekti_KNK_3.0V\Projekti_KNK\Projekti_KNK\obj\Debug\Projekti_KNK.csprojResolveAssemblyReference.cache
+C:\Users\Mirela\Desktop\Projekti_KNK_3.0V\Projekti_KNK\Projekti_KNK\obj\Debug\Projekti_KNK.Forma_Admin.resources
+C:\Users\Mirela\Desktop\Projekti_KNK_3.0V\Projekti_KNK\Projekti_KNK\obj\Debug\Projekti_KNK.Forma_Profesorit.resources
+C:\Users\Mirela\Desktop\Projekti_KNK_3.0V\Projekti_KNK\Projekti_KNK\obj\Debug\Projekti_KNK.Forma_Student.resources
+C:\Users\Mirela\Desktop\Projekti_KNK_3.0V\Projekti_KNK\Projekti_KNK\obj\Debug\Projekti_KNK.Identifikohu.resources
+C:\Users\Mirela\Desktop\Projekti_KNK_3.0V\Projekti_KNK\Projekti_KNK\obj\Debug\Projekti_KNK.Properties.Resources.resources
+C:\Users\Mirela\Desktop\Projekti_KNK_3.0V\Projekti_KNK\Projekti_KNK\obj\Debug\Projekti_KNK.frm_SHA.resources
+C:\Users\Mirela\Desktop\Projekti_KNK_3.0V\Projekti_KNK\Projekti_KNK\obj\Debug\Projekti_KNK.Sh_Drejtimet.resources
+C:\Users\Mirela\Desktop\Projekti_KNK_3.0V\Projekti_KNK\Projekti_KNK\obj\Debug\Projekti_KNK.Sh_Lendet.resources
+C:\Users\Mirela\Desktop\Projekti_KNK_3.0V\Projekti_KNK\Projekti_KNK\obj\Debug\Projekti_KNK.Sh_Percakto_Prof_Lenden.resources
+C:\Users\Mirela\Desktop\Projekti_KNK_3.0V\Projekti_KNK\Projekti_KNK\obj\Debug\Projekti_KNK.Sh_Profesor.resources
+C:\Users\Mirela\Desktop\Projekti_KNK_3.0V\Projekti_KNK\Projekti_KNK\obj\Debug\Projekti_KNK.Sh_Student.resources
+C:\Users\Mirela\Desktop\Projekti_KNK_3.0V\Projekti_KNK\Projekti_KNK\obj\Debug\Projekti_KNK.csproj.GenerateResource.Cache
+C:\Users\Tiumf\Desktop\Projekti_KNK_3.0V\Projekti_KNK\Projekti_KNK\bin\Debug\Projekti_KNK.exe.config
+C:\Users\Tiumf\Desktop\Projekti_KNK_3.0V\Projekti_KNK\Projekti_KNK\obj\Debug\Projekti_KNK.exe
+C:\Users\Tiumf\Desktop\Projekti_KNK_3.0V\Projekti_KNK\Projekti_KNK\obj\Debug\Projekti_KNK.pdb
+C:\Users\Toni\Desktop\Projekti_KNK_3.1V\projekti_knk\Projekti_KNK\bin\Debug\Projekti_KNK.exe.config
+C:\Users\Toni\Desktop\Projekti_KNK_3.1V\projekti_knk\Projekti_KNK\obj\Debug\Projekti_KNK.exe
+C:\Users\Toni\Desktop\Projekti_KNK_3.1V\projekti_knk\Projekti_KNK\obj\Debug\Projekti_KNK.pdb
+C:\Users\Toni\Desktop\Projekti_KNK_3.1V\projekti_knk\Projekti_KNK\bin\Debug\DB_RegjistroStudent.mdf
+C:\Users\Toni\Desktop\Projekti_KNK_3.1V\projekti_knk\Projekti_KNK\bin\Debug\DB_RegjistroStudent_log.ldf
+C:\Users\Toni\Desktop\Projekti_KNK_3.1V\projekti_knk\Projekti_KNK\bin\Debug\Projekti_KNK.exe
+C:\Users\Toni\Desktop\Projekti_KNK_3.1V\projekti_knk\Projekti_KNK\bin\Debug\Projekti_KNK.pdb
+C:\Users\Toni\Desktop\Projekti_KNK_3.1V\projekti_knk\Projekti_KNK\obj\Debug\Projekti_KNK.csprojResolveAssemblyReference.cache
+C:\Users\Toni\Desktop\Projekti_KNK_3.1V\projekti_knk\Projekti_KNK\obj\Debug\Projekti_KNK.Forma_Admin.resources
+C:\Users\Toni\Desktop\Projekti_KNK_3.1V\projekti_knk\Projekti_KNK\obj\Debug\Projekti_KNK.Forma_Profesorit.resources
+C:\Users\Toni\Desktop\Projekti_KNK_3.1V\projekti_knk\Projekti_KNK\obj\Debug\Projekti_KNK.Forma_Student.resources
+C:\Users\Toni\Desktop\Projekti_KNK_3.1V\projekti_knk\Projekti_KNK\obj\Debug\Projekti_KNK.Gjuha.anglisht.resources
+C:\Users\Toni\Desktop\Projekti_KNK_3.1V\projekti_knk\Projekti_KNK\obj\Debug\Projekti_KNK.Gjuha.Shqip1.resources
+C:\Users\Toni\Desktop\Projekti_KNK_3.1V\projekti_knk\Projekti_KNK\obj\Debug\Projekti_KNK.Identifikohu.resources
+C:\Users\Toni\Desktop\Projekti_KNK_3.1V\projekti_knk\Projekti_KNK\obj\Debug\Projekti_KNK.Properties.Resources.resources
+C:\Users\Toni\Desktop\Projekti_KNK_3.1V\projekti_knk\Projekti_KNK\obj\Debug\Projekti_KNK.frm_SHA.resources
+C:\Users\Toni\Desktop\Projekti_KNK_3.1V\projekti_knk\Projekti_KNK\obj\Debug\Projekti_KNK.Sh_Drejtimet.resources
+C:\Users\Toni\Desktop\Projekti_KNK_3.1V\projekti_knk\Projekti_KNK\obj\Debug\Projekti_KNK.Sh_Lendet.resources
+C:\Users\Toni\Desktop\Projekti_KNK_3.1V\projekti_knk\Projekti_KNK\obj\Debug\Projekti_KNK.Sh_Percakto_Prof_Lenden.resources
+C:\Users\Toni\Desktop\Projekti_KNK_3.1V\projekti_knk\Projekti_KNK\obj\Debug\Projekti_KNK.Sh_Profesor.resources
+C:\Users\Toni\Desktop\Projekti_KNK_3.1V\projekti_knk\Projekti_KNK\obj\Debug\Projekti_KNK.Sh_Student.resources
+C:\Users\Toni\Desktop\Projekti_KNK_3.1V\projekti_knk\Projekti_KNK\obj\Debug\Projekti_KNK.csproj.GenerateResource.Cache
+C:\Users\Toni\Desktop\Projekti_KNK_3.1V1\projekti_knk\Projekti_KNK\bin\Debug\Projekti_KNK.exe.config
+C:\Users\Toni\Desktop\Projekti_KNK_3.1V1\projekti_knk\Projekti_KNK\obj\Debug\Projekti_KNK.exe
+C:\Users\Toni\Desktop\Projekti_KNK_3.1V1\projekti_knk\Projekti_KNK\obj\Debug\Projekti_KNK.pdb
+C:\Users\Toni\Desktop\Projekti_KNK_3.1V1\projekti_knk\Projekti_KNK\bin\Debug\DB_RegjistroStudent.mdf
+C:\Users\Toni\Desktop\Projekti_KNK_3.1V1\projekti_knk\Projekti_KNK\bin\Debug\DB_RegjistroStudent_log.ldf
+C:\Users\Toni\Desktop\Projekti_KNK_3.1V1\projekti_knk\Projekti_KNK\bin\Debug\Projekti_KNK.exe
+C:\Users\Toni\Desktop\Projekti_KNK_3.1V1\projekti_knk\Projekti_KNK\bin\Debug\Projekti_KNK.pdb
+C:\Users\Toni\Desktop\Projekti_KNK_3.1V1\projekti_knk\Projekti_KNK\obj\Debug\Projekti_KNK.csprojResolveAssemblyReference.cache
+C:\Users\Toni\Desktop\Projekti_KNK_3.1V1\projekti_knk\Projekti_KNK\obj\Debug\Projekti_KNK.Forma_Admin.resources
+C:\Users\Toni\Desktop\Projekti_KNK_3.1V1\projekti_knk\Projekti_KNK\obj\Debug\Projekti_KNK.Forma_Profesorit.resources
+C:\Users\Toni\Desktop\Projekti_KNK_3.1V1\projekti_knk\Projekti_KNK\obj\Debug\Projekti_KNK.Forma_Student.resources
+C:\Users\Toni\Desktop\Projekti_KNK_3.1V1\projekti_knk\Projekti_KNK\obj\Debug\Projekti_KNK.Gjuha.anglisht.resources
+C:\Users\Toni\Desktop\Projekti_KNK_3.1V1\projekti_knk\Projekti_KNK\obj\Debug\Projekti_KNK.Gjuha.Shqip1.resources
+C:\Users\Toni\Desktop\Projekti_KNK_3.1V1\projekti_knk\Projekti_KNK\obj\Debug\Projekti_KNK.Identifikohu.resources
+C:\Users\Toni\Desktop\Projekti_KNK_3.1V1\projekti_knk\Projekti_KNK\obj\Debug\Projekti_KNK.Properties.Resources.resources
+C:\Users\Toni\Desktop\Projekti_KNK_3.1V1\projekti_knk\Projekti_KNK\obj\Debug\Projekti_KNK.frm_SHA.resources
+C:\Users\Toni\Desktop\Projekti_KNK_3.1V1\projekti_knk\Projekti_KNK\obj\Debug\Projekti_KNK.Sh_Drejtimet.resources
+C:\Users\Toni\Desktop\Projekti_KNK_3.1V1\projekti_knk\Projekti_KNK\obj\Debug\Projekti_KNK.Sh_Lendet.resources
+C:\Users\Toni\Desktop\Projekti_KNK_3.1V1\projekti_knk\Projekti_KNK\obj\Debug\Projekti_KNK.Sh_Percakto_Prof_Lenden.resources
+C:\Users\Toni\Desktop\Projekti_KNK_3.1V1\projekti_knk\Projekti_KNK\obj\Debug\Projekti_KNK.Sh_Profesor.resources
+C:\Users\Toni\Desktop\Projekti_KNK_3.1V1\projekti_knk\Projekti_KNK\obj\Debug\Projekti_KNK.Sh_Student.resources
+C:\Users\Toni\Desktop\Projekti_KNK_3.1V1\projekti_knk\Projekti_KNK\obj\Debug\Projekti_KNK.csproj.GenerateResource.Cache
+C:\Users\Tonni\Downloads\Projekti_KNK_3.1V1\projekti_knk\Projekti_KNK\bin\Debug\Projekti_KNK.exe.config
+C:\Users\Tonni\Downloads\Projekti_KNK_3.1V1\projekti_knk\Projekti_KNK\obj\Debug\Projekti_KNK.exe
+C:\Users\Tonni\Downloads\Projekti_KNK_3.1V1\projekti_knk\Projekti_KNK\obj\Debug\Projekti_KNK.pdb
+C:\Users\Tonni\Downloads\Projekti_KNK_3.1V1\projekti_knk\Projekti_KNK\bin\Debug\DB_RegjistroStudent.mdf
+C:\Users\Tonni\Downloads\Projekti_KNK_3.1V1\projekti_knk\Projekti_KNK\bin\Debug\DB_RegjistroStudent_log.ldf
+C:\Users\Tonni\Downloads\Projekti_KNK_3.1V1\projekti_knk\Projekti_KNK\bin\Debug\Projekti_KNK.exe
+C:\Users\Tonni\Downloads\Projekti_KNK_3.1V1\projekti_knk\Projekti_KNK\bin\Debug\Projekti_KNK.pdb
+C:\Users\Tonni\Downloads\Projekti_KNK_3.1V1\projekti_knk\Projekti_KNK\obj\Debug\Projekti_KNK.csprojResolveAssemblyReference.cache
+C:\Users\Tonni\Downloads\Projekti_KNK_3.1V1\projekti_knk\Projekti_KNK\obj\Debug\Projekti_KNK.Forma_Admin.resources
+C:\Users\Tonni\Downloads\Projekti_KNK_3.1V1\projekti_knk\Projekti_KNK\obj\Debug\Projekti_KNK.Forma_Profesorit.resources
+C:\Users\Tonni\Downloads\Projekti_KNK_3.1V1\projekti_knk\Projekti_KNK\obj\Debug\Projekti_KNK.Forma_Student.resources
+C:\Users\Tonni\Downloads\Projekti_KNK_3.1V1\projekti_knk\Projekti_KNK\obj\Debug\Projekti_KNK.Gjuha.anglisht.resources
+C:\Users\Tonni\Downloads\Projekti_KNK_3.1V1\projekti_knk\Projekti_KNK\obj\Debug\Projekti_KNK.Gjuha.Shqip1.resources
+C:\Users\Tonni\Downloads\Projekti_KNK_3.1V1\projekti_knk\Projekti_KNK\obj\Debug\Projekti_KNK.Identifikohu.resources
+C:\Users\Tonni\Downloads\Projekti_KNK_3.1V1\projekti_knk\Projekti_KNK\obj\Debug\Projekti_KNK.Properties.Resources.resources
+C:\Users\Tonni\Downloads\Projekti_KNK_3.1V1\projekti_knk\Projekti_KNK\obj\Debug\Projekti_KNK.frm_SHA.resources
+C:\Users\Tonni\Downloads\Projekti_KNK_3.1V1\projekti_knk\Projekti_KNK\obj\Debug\Projekti_KNK.Sh_Drejtimet.resources
+C:\Users\Tonni\Downloads\Projekti_KNK_3.1V1\projekti_knk\Projekti_KNK\obj\Debug\Projekti_KNK.Sh_Lendet.resources
+C:\Users\Tonni\Downloads\Projekti_KNK_3.1V1\projekti_knk\Projekti_KNK\obj\Debug\Projekti_KNK.Sh_Percakto_Prof_Lenden.resources
+C:\Users\Tonni\Downloads\Projekti_KNK_3.1V1\projekti_knk\Projekti_KNK\obj\Debug\Projekti_KNK.Sh_Profesor.resources
+C:\Users\Tonni\Downloads\Projekti_KNK_3.1V1\projekti_knk\Projekti_KNK\obj\Debug\Projekti_KNK.Sh_Student.resources
+C:\Users\Tonni\Downloads\Projekti_KNK_3.1V1\projekti_knk\Projekti_KNK\obj\Debug\Projekti_KNK.csproj.GenerateResource.Cache
+C:\Users\Tonni\Downloads\C-sharp\SEMS-mini-(Menaxhinimin-Notimin-stud)\Projekti_KNK\bin\Debug\Projekti_KNK.exe.config
+C:\Users\Tonni\Downloads\C-sharp\SEMS-mini-(Menaxhinimin-Notimin-stud)\Projekti_KNK\obj\Debug\Projekti_KNK.exe
+C:\Users\Tonni\Downloads\C-sharp\SEMS-mini-(Menaxhinimin-Notimin-stud)\Projekti_KNK\obj\Debug\Projekti_KNK.pdb
+C:\Users\Tonni\Downloads\C-sharp\SEMS-mini-(Menaxhinimin-Notimin-stud)\Projekti_KNK\bin\Debug\DB_RegjistroStudent.mdf
+C:\Users\Tonni\Downloads\C-sharp\SEMS-mini-(Menaxhinimin-Notimin-stud)\Projekti_KNK\bin\Debug\DB_RegjistroStudent_log.ldf
+C:\Users\Tonni\Downloads\C-sharp\SEMS-mini-(Menaxhinimin-Notimin-stud)\Projekti_KNK\bin\Debug\Projekti_KNK.exe
+C:\Users\Tonni\Downloads\C-sharp\SEMS-mini-(Menaxhinimin-Notimin-stud)\Projekti_KNK\bin\Debug\Projekti_KNK.pdb
+C:\Users\Tonni\Downloads\C-sharp\SEMS-mini-(Menaxhinimin-Notimin-stud)\Projekti_KNK\obj\Debug\Projekti_KNK.csprojResolveAssemblyReference.cache
+C:\Users\Tonni\Downloads\C-sharp\SEMS-mini-(Menaxhinimin-Notimin-stud)\Projekti_KNK\obj\Debug\Projekti_KNK.Forma_Admin.resources
+C:\Users\Tonni\Downloads\C-sharp\SEMS-mini-(Menaxhinimin-Notimin-stud)\Projekti_KNK\obj\Debug\Projekti_KNK.Forma_Profesorit.resources
+C:\Users\Tonni\Downloads\C-sharp\SEMS-mini-(Menaxhinimin-Notimin-stud)\Projekti_KNK\obj\Debug\Projekti_KNK.Forma_Student.resources
+C:\Users\Tonni\Downloads\C-sharp\SEMS-mini-(Menaxhinimin-Notimin-stud)\Projekti_KNK\obj\Debug\Projekti_KNK.Gjuha.anglisht.resources
+C:\Users\Tonni\Downloads\C-sharp\SEMS-mini-(Menaxhinimin-Notimin-stud)\Projekti_KNK\obj\Debug\Projekti_KNK.Gjuha.Shqip1.resources
+C:\Users\Tonni\Downloads\C-sharp\SEMS-mini-(Menaxhinimin-Notimin-stud)\Projekti_KNK\obj\Debug\Projekti_KNK.Identifikohu.resources
+C:\Users\Tonni\Downloads\C-sharp\SEMS-mini-(Menaxhinimin-Notimin-stud)\Projekti_KNK\obj\Debug\Projekti_KNK.Properties.Resources.resources
+C:\Users\Tonni\Downloads\C-sharp\SEMS-mini-(Menaxhinimin-Notimin-stud)\Projekti_KNK\obj\Debug\Projekti_KNK.frm_SHA.resources
+C:\Users\Tonni\Downloads\C-sharp\SEMS-mini-(Menaxhinimin-Notimin-stud)\Projekti_KNK\obj\Debug\Projekti_KNK.Sh_Drejtimet.resources
+C:\Users\Tonni\Downloads\C-sharp\SEMS-mini-(Menaxhinimin-Notimin-stud)\Projekti_KNK\obj\Debug\Projekti_KNK.Sh_Lendet.resources
+C:\Users\Tonni\Downloads\C-sharp\SEMS-mini-(Menaxhinimin-Notimin-stud)\Projekti_KNK\obj\Debug\Projekti_KNK.Sh_Percakto_Prof_Lenden.resources
+C:\Users\Tonni\Downloads\C-sharp\SEMS-mini-(Menaxhinimin-Notimin-stud)\Projekti_KNK\obj\Debug\Projekti_KNK.Sh_Profesor.resources
+C:\Users\Tonni\Downloads\C-sharp\SEMS-mini-(Menaxhinimin-Notimin-stud)\Projekti_KNK\obj\Debug\Projekti_KNK.Sh_Student.resources
+C:\Users\Tonni\Downloads\C-sharp\SEMS-mini-(Menaxhinimin-Notimin-stud)\Projekti_KNK\obj\Debug\Projekti_KNK.csproj.GenerateResource.Cache
